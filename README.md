@@ -1,0 +1,2 @@
+# Network-Analysis-of-Game-of-Thrones
+The co-occurrence network of the characters of the 5 books of [A Song of Ice and Fire](https://www.amazon.com/Game-Thrones-Song-Fire-Boxed/dp/B010DV02GC) is analyzed in [Game of Thrones](https://es.wikipedia.org/wiki/Game_of_Thrones) . The [data](https://github.com/Suraj-Patro/GoT_Network_Analysis/tree/main/datasets) considers two characters to coexist if their names appear within 15 words of each other in the books.
